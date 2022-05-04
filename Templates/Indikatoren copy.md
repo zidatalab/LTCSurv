@@ -2,8 +2,11 @@
 
 Name:
 Datenquellen:
+- 
 
-# Operationaliserung
+# Literatur
+
+# Operationaliserung nach Datenquelle
 
 ## Datenquelle X
 
